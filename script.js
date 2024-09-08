@@ -1,6 +1,6 @@
 var Chickens = document.querySelector(".chickenContener");
 
-for (let i = 0; i < 56; i++) {
+for (let i = 0; i < 64; i++) {
   Chickens.innerHTML += `
         <img src="./Chicken.png" width='90px' >
     `;
